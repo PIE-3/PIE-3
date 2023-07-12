@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PIE-3
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me mail-jishan.ahamed7k@gmail.com
 
